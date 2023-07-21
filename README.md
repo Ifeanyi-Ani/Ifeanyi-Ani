@@ -1,4 +1,4 @@
-Hello and Welcome 👋, I'm Ifeanyi Ani
+Hello and Welcome 👋, I'm Ifeanyi Emmanuel Ani
 - 👀 I’m interested in webDev
 - 💞️ I’m looking to collaborate on 'Any'
 - 📫 How to reach me 
