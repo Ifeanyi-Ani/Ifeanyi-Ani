@@ -10,7 +10,7 @@ Hello and Welcome 👋, I'm Ifeanyi Emmanuel Ani
 
 - LinkedIn: [Ifeanyi Ani](https://www.linkedin.com/in/ifeanyi-ani-997520246/)
 - Portfolio: [Portfolio](https://my-portfolio-umber-one.vercel.app/)
-- Email: ifeanyiemmanuelani04@gmail.com
+- Email: ifeanyiani155@gmail.com
 
-Looking forward to connecting with you!
+Look forward to connect with you!
 
