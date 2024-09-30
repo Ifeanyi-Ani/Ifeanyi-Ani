@@ -47,10 +47,8 @@ A showcase of my projects and skills with a custom CMS backend.
 ---
 
 ### 📈 GitHub Stats
-
-[![Ifeanyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ifeanyi-Ani&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=Ifeanyi-Ani&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<img height=200 width=47% align="left" src="https://github-readme-stats.vercel.app/api?username=Ifeanyi-Ani&show_icons=true&bg_color=00000000" />
+<img height=200 width=47% align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ifeanyi-Ani&layout=compact&langs_count=8&card_width=320&bg_color=00000000" />
 
 ---
 
