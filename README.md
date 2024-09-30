@@ -49,7 +49,7 @@ A showcase of my projects and skills.
 ### 📈 GitHub Stats
 
 <img height=200 width=47% align="left" src="https://github-readme-stats.vercel.app/api?username=Ifeanyi-Ani&show_icons=true&bg_color=00000000" />
-<img height=200 width=47% align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ifeanyi-Ani&layout=compact&langs_count=8&card_width=320&bg_color=00000000" />
+<img height=200 width=47% align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ifeanyi-Ani&layout=compact&langs_count=8&card_width=320&bg_color=00000000" />
 
 ---
 
