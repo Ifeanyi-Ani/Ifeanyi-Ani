@@ -32,21 +32,22 @@
 
 ### 🌟 Featured Projects
 
-#### 1. Full Stack E-commerce Platform
-A complete e-commerce solution with a responsive frontend and scalable backend.
-- **Tech Stack:** Next.js, Node.js, Express, MongoDB, Redux, Tailwind CSS
+#### 1. Full Stack Forum Platform
+A complete blog solution with a responsive frontend and scalable backend.
+- **Tech Stack:** React, Node.js, Express, MongoDB, Redux, Tailwind CSS
 
 #### 2. Real-time Chat Application
 A full stack real-time chat application with instant messaging capabilities.
 - **Tech Stack:** React, Node.js, Socket.io, PostgreSQL, Redis
 
 #### 3. Personal Portfolio Website
-A showcase of my projects and skills with a custom CMS backend.
+A showcase of my projects and skills.
 - **Tech Stack:** Next.js, Node.js, MongoDB, Tailwind CSS, Framer Motion
 
 ---
-
+ll
 ### 📈 GitHub Stats
+l
 <img height=200 width=47% align="left" src="https://github-readme-stats.vercel.app/api?username=Ifeanyi-Ani&show_icons=true&bg_color=00000000" />
 <img height=200 width=47% align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ifeanyi-Ani&layout=compact&langs_count=8&card_width=320&bg_color=00000000" />
 
