@@ -45,9 +45,9 @@ A showcase of my projects and skills.
 - **Tech Stack:** Next.js, Node.js, MongoDB, Tailwind CSS, Framer Motion
 
 ---
-ll
+
 ### 📈 GitHub Stats
-l
+
 <img height=200 width=47% align="left" src="https://github-readme-stats.vercel.app/api?username=Ifeanyi-Ani&show_icons=true&bg_color=00000000" />
 <img height=200 width=47% align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ifeanyi-Ani&layout=compact&langs_count=8&card_width=320&bg_color=00000000" />
 
