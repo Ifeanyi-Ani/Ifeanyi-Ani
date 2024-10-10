@@ -68,6 +68,8 @@ A showcase of my projects and skills.
 - Challenging full stack development projects
 
 ---
+<div style='mb:5px;'>
+  ⭐️ From [Ifeanyi-Ani](https://github.com/Ifeanyi-Ani)
+</div>
 
-⭐️ From [Ifeanyi-Ani](https://github.com/Ifeanyi-Ani)
-<a href='https://www.buymeacoffee.com/ifeanyi_ani' target='_blank' sytle='display:inline-block;'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
+<a href='https://www.buymeacoffee.com/ifeanyi_ani' target='_blank' sytle='display:block;'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
