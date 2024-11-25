@@ -50,7 +50,7 @@ A showcase of my projects and skills.
 
 <div align="center">
   <img height="200" width="48%" src="https://github-readme-stats.vercel.app/api?username=Ifeanyi-Ani&show_icons=true&bg_color=00000000" />
-  <img height="200" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ifeanyi-Ani&layout=compact&langs_count=8&card_width=320&bg_color=00000000" />
+  <img height="200" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ifeanyi-Ani&layout=compact&langs_count=6&card_width=320&bg_color=00000000" />
 </div>
 
 <br clear="both"/>
@@ -72,4 +72,7 @@ A showcase of my projects and skills.
   ⭐️ From [Ifeanyi-Ani](https://github.com/Ifeanyi-Ani)
 </div>
 
+---
+<div>
 <a href='https://www.buymeacoffee.com/ifeanyi_ani' target='_blank' sytle='display:block;'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
+</div>
