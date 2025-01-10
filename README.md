@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ifeanyi E. Ani
 
-## 💻 Full Stack Developer | 🚀 JavaScript Enthusiast | 🌐 Web Technology Explorer
+## 💻 Full Stack Developer | 🚀 JavaScript Enthusiast | 🌐 Blockchain Technology Explorer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=About.me&logoColor=white)](https://ifeanyi-pi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifeanyi-ani-997520246/)
@@ -60,7 +60,7 @@ A showcase of my projects and skills.
 ### 🌱 I'm currently learning
 - Advanced React patterns
 - Microservices architecture
-- Cloud-native development
+- Blockchain development
 
 ### 👯 I'm looking to collaborate on
 - Open source projects
