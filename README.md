@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ifeanyi E. Ani
+# 👋 Hi, I'm Ifeanyi
 
 ## 💻 Full Stack Developer | 🚀 JavaScript Enthusiast | 🌐 Blockchain Tech Explorer
 
