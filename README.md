@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ifeanyi E. Ani
 
-## 💻 Full Stack Developer | 🚀 JavaScript Enthusiast | 🌐 Blockchain Technology Explorer
+## 💻 Full Stack Developer | 🚀 JavaScript Enthusiast | 🌐 Blockchain Tech Explorer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=About.me&logoColor=white)](https://ifeanyi-pi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifeanyi-ani-997520246/)
