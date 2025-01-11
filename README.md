@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ifeanyi
 
-## 💻 Full Stack Developer | 🚀 JavaScript Enthusiast | 🌐 Blockchain Tech Explorer
+## 🚀 Full Stack Developer | JavaScript Enthusiast | Blockchain Explorer
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-00A98F?style=for-the-badge&logo=About.me&logoColor=white)](https://ifeanyi-pi.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ifeanyi-ani-997520246/)
@@ -8,71 +8,57 @@
 
 ---
 
-### 🛠️ Tech Stack
+### 💻 Tech Stack
 
-#### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Backend
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-
-#### Tools & Others
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 1. Full Stack Forum Platform
-A complete blog solution with a responsive frontend and scalable backend.
-- **Tech Stack:** React, Node.js, Express, MongoDB, Redux, Tailwind CSS
+1. **Full Stack Forum Platform**
+   - React, Node.js, Express, MongoDB, Redux, Tailwind CSS
 
-#### 2. Real-time Chat Application
-A full stack real-time chat application with instant messaging capabilities.
-- **Tech Stack:** React, Node.js, Socket.io, PostgreSQL, Redis
+2. **Real-time Chat Application**
+   - React, Node.js, Socket.io, PostgreSQL, Redis
 
-#### 3. Personal Portfolio Website
-A showcase of my projects and skills.
-- **Tech Stack:** Next.js, Node.js, MongoDB, Tailwind CSS, Framer Motion
+3. **Personal Portfolio Website**
+   - Next.js, Node.js, MongoDB, Tailwind CSS, Framer Motion
 
 ---
 
-### 📈 GitHub Stats
+📈 Check out my GitHub contribution streak! I'm committed to consistent growth and learning.
+
+### 📊 GitHub Stats
 
 <div align="center">
-  <img height="200" width="48%" src="https://github-readme-stats.vercel.app/api?username=Ifeanyi-Ani&show_icons=true&bg_color=00000000" />
-  <img height="200" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Ifeanyi-Ani&layout=compact&langs_count=6&card_width=320&bg_color=00000000" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ifeanyi-Ani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ifeanyi-Ani&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ifeanyi-Ani&theme=dark" alt="Ifeanyi-Ani's GitHub streak stats"/>
 </div>
-
-<br clear="both"/>
 
 ---
 
-### 🌱 I'm currently learning
+### 🌱 Currently Exploring
 - Advanced React patterns
 - Microservices architecture
 - Blockchain development
 
-### 👯 I'm looking to collaborate on
-- Open source projects
+### 👯 Open to Collaborate on
 - Innovative web applications
-- Challenging full stack development projects
+- Challenging full stack projects
 
 ---
-<div style='mb:5px;'>
-  ⭐️ From [Ifeanyi-Ani](https://github.com/Ifeanyi-Ani)
+
+<div align="center">
+  <a href='https://www.buymeacoffee.com/ifeanyi_ani' target='_blank'>
+    <img src='https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png' alt='Buy Me A Coffee' style='height: 60px !important;width: 217px !important;' >
+  </a>
 </div>
 
----
-<div>
-<a href='https://www.buymeacoffee.com/ifeanyi_ani' target='_blank' sytle='display:block;'><img height='36' style='border:0px;height:36px;' src='https://cdn.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee' /></a>
-</div>
+
