@@ -38,7 +38,7 @@
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ifeanyi-Ani&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ifeanyi-Ani&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ifeanyi-Ani&layout=compact&langs_count=8&theme=dark"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ifeanyi-Ani&theme=dark" alt="Ifeanyi-Ani's GitHub streak stats"/>
 </div>
 
